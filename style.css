@@ -79,3 +79,9 @@ a:hover{
     font-style: unset;
 }
 
+@media screen and (max-width: 667px) {
+    body { background: url('img/backgroundmobile.jpg'); 
+           background-repeat: no-repeat;
+           background-size: 100% 100% ;
+    }
+}
